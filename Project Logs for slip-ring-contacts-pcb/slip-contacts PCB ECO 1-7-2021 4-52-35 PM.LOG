@@ -1,0 +1,24 @@
+Added Component: Designator=J1(70ABJ-3-M0E)
+Added Component: Designator=J2(PAD_SING)
+Added Component: Designator=J3(70ABJ-3-M0E)
+Added Component: Designator=J4(PAD_SING)
+Added Component: Designator=J5(PAD_SING)
+Added Pin To Net: NetName=3V3 Pin=J1-1
+Added Pin To Net: NetName=3V3 Pin=J1-6
+Added Pin To Net: NetName=3V3 Pin=J2-1
+Added Pin To Net: NetName=3V3 Pin=J3-1
+Added Pin To Net: NetName=3V3 Pin=J3-6
+Added Net: Name=3V3
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Net: Name=GND
+Added Pin To Net: NetName=TX Pin=J1-2
+Added Pin To Net: NetName=TX Pin=J1-5
+Added Pin To Net: NetName=TX Pin=J3-2
+Added Pin To Net: NetName=TX Pin=J3-5
+Added Pin To Net: NetName=TX Pin=J4-1
+Added Net: Name=TX
+Added Class: Name=sch-contacts

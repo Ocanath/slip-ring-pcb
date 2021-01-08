@@ -1,0 +1,16 @@
+Added Component: Designator=J6(70ABJ-3-M0E)
+Added Component: Designator=J7(70ABJ-3-M0E)
+Added Pin To Net: NetName=3V3 Pin=J6-1
+Added Pin To Net: NetName=TX Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=TX Pin=J6-5
+Added Pin To Net: NetName=3V3 Pin=J6-6
+Added Pin To Net: NetName=3V3 Pin=J7-1
+Added Pin To Net: NetName=TX Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J7-4
+Added Pin To Net: NetName=TX Pin=J7-5
+Added Pin To Net: NetName=3V3 Pin=J7-6
+Added Member To Class: ClassName=sch-contacts Member=Component J6 Spring Contacts 3p
+Added Member To Class: ClassName=sch-contacts Member=Component J7 Spring Contacts 3p
